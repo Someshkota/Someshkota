@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning javascript 
 - 💞️ I’m looking to collaborate on in new projects for learning and experience 
-- 📫 How to reach me 
+- 📫 How to reach me https://www.instagram.com/_som_9325/
 
 <!---
 Someshkota/Someshkota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
